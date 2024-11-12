@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678092798900",
+    "project_id": "mybeautyiq-f5b16",
+    "storage_bucket": "mybeautyiq-f5b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678092798900:android:4f7db71ff89d58a97e50e1",
+        "android_client_info": {
+          "package_name": "com.getignited.mybeautyiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678092798900-vm38miphuhchj7g54r2pad547ml5p8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_hkyMmg9O8Nqq9RY0ZK75iMQFXqvMw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678092798900-vm38miphuhchj7g54r2pad547ml5p8ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
